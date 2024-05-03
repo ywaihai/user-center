@@ -8,7 +8,7 @@ spring:
     username: root
     password: 1433223ycX@
   session:
-    timeout: 86400
+    timeout: 120
 server:
   port: 8080
   servlet:
