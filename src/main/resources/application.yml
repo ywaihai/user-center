@@ -4,9 +4,9 @@ spring:
     name: user-center
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/yupi
-    username: root
-    password: 1433223ycX@
+    url: 
+    username: 
+    password: 
   session:
     timeout: 120
 server:
